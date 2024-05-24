@@ -38,3 +38,33 @@ This report provides valuable insights into the game market, aiding developers a
 
 ![Most Played Genres](most-played-genres.png)
 
+---
+
+# Game Idea
+
+Astro Quest is an exciting space-themed game where players control a spaceship navigating through an asteroid field. The objective is to survive as long as possible while facing increasingly challenging obstacles.
+
+## How the Idea was Born
+
+The decision to develop "Astro Quest" was based on a thorough analysis of the gaming market and player preferences. Here's a summary of how the decision was made using the collected data:
+
+### Market Research:
+
+- **Average Rating**: The market analysis revealed an average rating of 3.3 stars, indicating a stable demand for games with room for improvement in user experience.
+- **Most Played Genres**: Adventure, indie, and RPG genres were identified as the most popular among players, suggesting that a game with adventure elements would be well-received.
+
+### Player Preferences:
+
+- **Space Adventure Theme**: Considering the popularity of the adventure genre and space theme, the idea of developing a space-themed game was explored.
+- **Progressive Challenges**: Inspired by successful games featuring progressive challenges, the decision was made to design a game with increasingly difficult levels to maintain player engagement.
+
+### Technical and Creative Viability:
+
+- **Technologies Used**: The technical feasibility of developing such a game using Python and the Pygame library was evaluated and found to be efficient.
+- **Creativity and Originality**: Unique features such as dynamic spaceship control, realistic asteroid behavior, and exciting gameplay mechanics were incorporated to differentiate the game from others in the market.
+
+### Conclusion and Decision:
+
+After analyzing the data and considering player preferences, the decision was made to develop "Astro Quest," an exciting space adventure game where players navigate a spaceship through asteroid fields while facing progressively challenging obstacles.
+
+[Astro Quest Repository](https://github.com/sutton-sn/astro-quest-game)
