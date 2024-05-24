@@ -36,5 +36,5 @@ This report provides valuable insights into the game market, aiding developers a
 
 ### Graph, Most Played Game Genres
 
-!(most-played-genres.png)
+![Most Played Genres](most-played-genres.png)
 
