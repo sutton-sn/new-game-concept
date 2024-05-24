@@ -1,4 +1,4 @@
-To carry out this analysis, technologies such as SQL were used to organize data and Python and Pandas to analyze the data.
+To carry out this analysis, technologies such as SQL were used to organize data and Python ( Pandas ) to analyze the data.
 ---
 # Market Analysis Report for Games
 
